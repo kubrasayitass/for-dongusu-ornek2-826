@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for döngüsü ornek2\for döngüsü ornek2\bin\Debug\for döngüsü ornek2.exe.config
+C:\Users\User\source\repos\for döngüsü ornek2\for döngüsü ornek2\bin\Debug\for döngüsü ornek2.exe
+C:\Users\User\source\repos\for döngüsü ornek2\for döngüsü ornek2\bin\Debug\for döngüsü ornek2.pdb
+C:\Users\User\source\repos\for döngüsü ornek2\for döngüsü ornek2\obj\Debug\for döngüsü ornek2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\for döngüsü ornek2\for döngüsü ornek2\obj\Debug\for döngüsü ornek2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\for döngüsü ornek2\for döngüsü ornek2\obj\Debug\for_döngüsü_ornek2.Form1.resources
+C:\Users\User\source\repos\for döngüsü ornek2\for döngüsü ornek2\obj\Debug\for_döngüsü_ornek2.Properties.Resources.resources
+C:\Users\User\source\repos\for döngüsü ornek2\for döngüsü ornek2\obj\Debug\for döngüsü ornek2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\for döngüsü ornek2\for döngüsü ornek2\obj\Debug\for döngüsü ornek2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\for döngüsü ornek2\for döngüsü ornek2\obj\Debug\for döngüsü ornek2.exe
+C:\Users\User\source\repos\for döngüsü ornek2\for döngüsü ornek2\obj\Debug\for döngüsü ornek2.pdb
